@@ -58,20 +58,6 @@ Username: admin
 Password: admin123
 (Change credentials after the first login for security.)
 
-📸 Screenshots
-Add screenshots of the dashboard, result entry, and result view here.
-
-📄 License
-This project is open-source and available under the MIT License.
-
-Made with ❤️ by [Pavan & Shivam]
-
-
-
-
-
-
-
 
 
 
